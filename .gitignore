@@ -1,0 +1,12 @@
+*~
+
+snapcontrol-gemme
+dist
+venv
+.tox
+tox.ini
+note.txt
+note2.txt
+
+
+__pycache__

@@ -1,0 +1,6 @@
+. venv/bin/activate
+
+flit build
+
+flit publish --repository testpypi
+
