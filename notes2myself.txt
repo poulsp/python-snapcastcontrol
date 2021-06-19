@@ -2,5 +2,8 @@
 
 flit build
 
+flit publish
+
+
 flit publish --repository testpypi
 
